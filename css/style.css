@@ -31,3 +31,44 @@ header nav ul li a {
     font-weight: bold;
     text-decoration: none;
 }
+
+
+
+/*H1 y parrafo*/
+
+h1 {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 15px;
+
+}
+
+section h1 span {
+    color: yellow;
+}
+
+p {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 15px;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+}
+.conteiner a {
+    color: black;
+    text-decoration: none;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
